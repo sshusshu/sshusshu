@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## नमस्ते 🙏, I'm ASHRAF K.M 
-## Full Stack Developer 👨‍💻
+## I'm SUBIN LIM 
+## Frontend Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
 [![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:ashrafkm010@gmail.com)
@@ -29,11 +29,10 @@ Here are some ideas to get you started:
 
 ```javascript
 const Subin = {
-    pronouns: "He" | "Him",
+    nickName: "Sshu",
     askMeAbout: ["app dev", "web dev", "tech"],
     frontEnd:["html5", "scss", "Javascript", "React"],
-
-    architecture: ["Serverless Architecture", "microservices", "event-driven", "Single page applications"],
+    interests:["UI/UX Design","interactive web"]
 }
 ```
 
