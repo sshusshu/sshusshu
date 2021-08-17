@@ -30,8 +30,7 @@ const Subin = {
 ```
 
  <img src="https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
- 
-![snake gif](https://github.com/sshusshu/sshusshu/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 ⭐️ From [@sshusshu](https://github.com/sshusshu)
