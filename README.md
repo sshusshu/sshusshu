@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-## I'm SUBIN LIM 
+## Hi! I'm Subin!
 ## Frontend Developer 👨‍💻
 
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ```javascript
 const Subin = {
     nickName: "Sshu",
-    frontEnd:["html5", "scss", "Javascript", "React"],
+    frontEnd:["html5", "css" , "scss", "Javascript", "React"],
     interests:["UI/UX Design","interactive web"]
 }
 ```
