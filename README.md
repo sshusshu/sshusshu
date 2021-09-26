@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 const Subin = {
     nickName: "Sshu",
     frontEnd:["html5", "css" , "scss", "Javascript", "React"],
-    interests:["UI/UX Design","interactive web"]
+    interests:["UI/UX","interactive web"]
 }
 ```
 
